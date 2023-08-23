@@ -1,0 +1,12 @@
+body{
+    background-color: red;
+}
+p{
+    border-radius: 10px;
+}
+div{
+    color: green;
+}
+.botton{    
+    border: 1px solid red;
+}
