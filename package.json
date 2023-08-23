@@ -1,0 +1,12 @@
+{
+  "name": "introduccion",
+  "version": "1.0.0",
+  "description": "Practica para el control de versiones",
+  "main": "operaciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convertir" : "sass EstiloPrincipal.scss EstiloPrincipal.css"
+  },
+  "author": "Uriel",
+  "license": "ISC"
+}
